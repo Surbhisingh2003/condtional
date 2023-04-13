@@ -1,0 +1,12 @@
+import java.util.*;
+public class condtional{
+public static void main(String args[]){
+int age = 22;
+int (age>=18){
+System.out.println("adult: drive,vote");
+}
+else{
+System.out.println("not adult");
+}
+}
+}
