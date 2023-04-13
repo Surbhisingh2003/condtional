@@ -1,0 +1,15 @@
+import java.util.*;
+public class condtional{
+public static void main(String args[]){
+int number = 1;
+switch(number){
+case1: System.out.println("Ice cream");
+break;
+case2: System.out.println("cake");
+break;
+case3: System.out.println("golgappe");
+break;
+default:System.out.println("Earn money");
+}
+}
+}
